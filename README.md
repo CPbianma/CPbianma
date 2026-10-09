@@ -28,8 +28,8 @@
   </a>
   <a href="https://github.com/CPbianma/green-vrptw-split-delivery">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="green-vrptw-split-delivery"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC&cache_seconds=3600"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488&cache_seconds=3600" alt="green-vrptw-split-delivery"/>
     </picture>
   </a>
   <a href="https://github.com/CPbianma/ncmdec">
@@ -62,10 +62,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563" alt="Top languages"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CPbianma&bg_color=0d1117&hide_border=true&area=true&area_color=2AA79B&line=45B8AC&point=5EEAD4&color=9AA7B0&title_color=5EEAD4&custom_title=Contribution%20Activity"/>
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CPbianma&bg_color=ffffff&hide_border=true&area=true&area_color=8FD8CB&line=0D9488&point=0F766E&color=4B5563&title_color=0F766E&custom_title=Contribution%20Activity" alt="Contribution activity"/>
   </picture>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=CPbianma&style=flat-square&color=0d9488&label=PROFILE+VIEWS" alt="profile views"/>
