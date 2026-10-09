@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:0b2429,10:0f3d42,20:16635b&height=170&section=header&text=Peng%20Cai&fontSize=48&fontColor=EAFDF8&fontAlignY=40&desc=MSc%20%C2%B7%20Big%20Data%20Health%20Science%20%C2%B7%20AI%20%2B%20Healthcare&descSize=15&descColor=8FD8CB&descAlignY=62&animation=fadeIn" alt="Peng Cai"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=21&height=170&section=header&text=Peng%20Cai&fontSize=48&fontColor=F2FCF9&fontAlignY=40&desc=MSc%20%C2%B7%20Big%20Data%20Health%20Science%20%C2%B7%20AI%20%2B%20Healthcare&descSize=15&descColor=CDEAE3&descAlignY=62&animation=fadeIn" alt="Peng Cai"/>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript"/>
@@ -68,4 +68,4 @@
   <img src="https://komarev.com/ghpvc/?username=CPbianma&style=flat-square&color=0d9488&label=PROFILE+VIEWS" alt="profile views"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:0b2429,10:0f3d42,20:16635b&height=90&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=21&height=90&section=footer" alt="footer"/>
