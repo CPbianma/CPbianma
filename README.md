@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Peng Cai (蔡鹏)
+# Hi 👋, I'm Peng Cai 
 
 **MSc Student · Big Data Health Science · AI + Healthcare**
 
