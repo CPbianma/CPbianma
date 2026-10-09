@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=21&height=170&section=header&text=Peng%20Cai&fontSize=48&fontColor=F2FCF9&fontAlignY=40&desc=MSc%20%C2%B7%20Big%20Data%20Health%20Science%20%C2%B7%20AI%20%2B%20Healthcare&descSize=15&descColor=CDEAE3&descAlignY=62&animation=fadeIn" alt="Peng Cai"/>
+  <img width="100%" src="./assets/header.svg" alt="Peng Cai — Big Data Health Science · AI + Healthcare"/>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript"/>
@@ -8,14 +8,16 @@
   </picture>
 </div>
 
-## About
+## `01` About
+
+<a href="https://github.com/CPbianma"><img align="right" width="130" src="./assets/badge.svg" alt="AI + Healthcare badge"/></a>
 
 - 🎓 **MSc, Big Data Health Science** — Zhejiang University · `2026 → 2029`
 - 🏥 **AI + Healthcare** @ 浙江大学数智健康研究院 · Hangzhou
 - 🌱 **BSc, Global Health** (minor in CS) — Wuhan University · `2022 → 2026`
 - ⚡ `'04` — multi-agent systems, desktop tools & medical data
 
-## Featured Projects
+## `02` Featured Projects
 
 <div align="center">
   <a href="https://github.com/CPbianma/Cc-codex-flow">
@@ -44,13 +46,13 @@
   </a>
 </div>
 
-## Toolbox
+## `03` Toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,ts,java,react,tauri,git,github&theme=light&perline=8" alt="tech stack"/>
 </div>
 
-## Stats
+## `04` Stats
 
 <div align="center">
   <picture>
@@ -61,8 +63,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563" alt="Top languages"/>
   </picture>
-  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CPbianma&bg_color=0d1117&hide_border=true&area=true&area_color=2AA79B&line=45B8AC&point=5EEAD4&color=9AA7B0&title_color=5EEAD4&custom_title=Contribution%20Activity"/>
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CPbianma&bg_color=ffffff&hide_border=true&area=true&area_color=8FD8CB&line=0D9488&point=0F766E&color=4B5563&title_color=0F766E&custom_title=Contribution%20Activity" alt="Contribution activity"/>
+  </picture>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=CPbianma&style=flat-square&color=0d9488&label=PROFILE+VIEWS" alt="profile views"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=21&height=90&section=footer" alt="footer"/>
+<img width="100%" src="./assets/footer.svg" alt="Code for healthier lives."/>
