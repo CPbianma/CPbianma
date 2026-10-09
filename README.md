@@ -47,10 +47,7 @@
 ## Toolbox
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,python,ts,java,react,tauri,git,github&theme=dark&perline=8"/>
-    <img src="https://skillicons.dev/icons?i=rust,python,ts,java,react,tauri,git,github&theme=light&perline=8" alt="tech stack"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,java,react,tauri,git,github&theme=light&perline=8" alt="tech stack"/>
 </div>
 
 ## Stats
