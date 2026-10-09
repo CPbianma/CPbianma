@@ -1,56 +1,71 @@
 <div align="center">
-
-# Hi 👋, I'm Peng Cai 
-
-**MSc Student · Big Data Health Science · AI + Healthcare**
-
-📍 浙江大学数智健康研究院 · Zhejiang University, Hangzhou
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:0b2429,10:0f3d42,20:16635b&height=170&section=header&text=Peng%20Cai&fontSize=48&fontColor=EAFDF8&fontAlignY=40&desc=MSc%20%C2%B7%20Big%20Data%20Health%20Science%20%C2%B7%20AI%20%2B%20Healthcare&descSize=15&descColor=8FD8CB&descAlignY=62&animation=fadeIn" alt="Peng Cai"/>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript" alt="intro"/>
+  </picture>
 </div>
 
----
+## About
 
-## 🧑‍🎓 About Me
+- 🎓 **MSc, Big Data Health Science** — Zhejiang University · `2026 → 2029`
+- 🏥 **AI + Healthcare** @ 浙江大学数智健康研究院 · Hangzhou
+- 🌱 **BSc, Global Health** (minor in CS) — Wuhan University · `2022 → 2026`
+- ⚡ `'04` — multi-agent systems, desktop tools & medical data
 
-- 🎂 Born in **2004**
-- 🎓 **BSc in Global Health** (minor in Computer Science) — Wuhan University, 2022–2026
-- 🎓 **MSc in Big Data Health Science** — Zhejiang University, 2026–2029 (in progress)
-- 🏥 Research focus: **AI + Healthcare**, Medical Big Data
-- 📍 Based in **Hangzhou, Zhejiang, China**
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**Cc-codex-flow**](https://github.com/CPbianma/Cc-codex-flow) | 把 Claude Code 和 Codex CLI 编排成 3 轮 FSM（决策—执行—审查）的桌面多 agent 框架 | Rust · Tauri 2 · React 19 |
-| [**green-vrptw-split-delivery**](https://github.com/CPbianma/green-vrptw-split-delivery) | Green vehicle routing problem with time windows & split delivery | Python |
-| [**ncmdec**](https://github.com/CPbianma/ncmdec) | NetEase Cloud Music NCM decryptor & downloader with full metadata + lyrics | Python |
-| [**Underline_translate**](https://github.com/CPbianma/Underline_translate) | 轻量级桌面划词翻译工具，支持快捷键取词、悬浮窗口展示译文和 OpenAI 兼容接口 | Rust |
-| [**zju-library-booker**](https://github.com/CPbianma/zju-library-booker) | ZJU Library Booker desktop query and booking preview tool | TypeScript |
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
+## Featured Projects
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CPbianma&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&hide_border=true)
-
+  <a href="https://github.com/CPbianma/Cc-codex-flow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Cc-codex-flow&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Cc-codex-flow&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="Cc-codex-flow"/>
+    </picture>
+  </a>
+  <a href="https://github.com/CPbianma/green-vrptw-split-delivery">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="green-vrptw-split-delivery"/>
+    </picture>
+  </a>
+  <a href="https://github.com/CPbianma/ncmdec">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=ncmdec&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=ncmdec&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="ncmdec"/>
+    </picture>
+  </a>
+  <a href="https://github.com/CPbianma/Underline_translate">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Underline_translate&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Underline_translate&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="Underline_translate"/>
+    </picture>
+  </a>
 </div>
 
----
+## Toolbox
 
 <div align="center">
-
-💬 Feel free to reach out via [GitHub](https://github.com/CPbianma) · 欢迎交流 AI + 医疗方向的合作！
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,python,ts,java,react,tauri,git,github&theme=dark&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=rust,python,ts,java,react,tauri,git,github&theme=light&perline=8" alt="tech stack"/>
+  </picture>
 </div>
+
+## Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CPbianma&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=CPbianma&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563" alt="Top languages"/>
+  </picture>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=CPbianma&style=flat-square&color=0d9488&label=PROFILE+VIEWS" alt="profile views"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0:0b2429,10:0f3d42,20:16635b&height=90&section=footer" alt="footer"/>
