@@ -1,11 +1,7 @@
 <div align="center">
   <img width="100%" src="./assets/header.svg" alt="Peng Cai — Big Data Health Science · AI + Healthcare"/>
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=640&height=42&lines=MSc+%40+Zhejiang+University+%C2%B7+Big+Data+Health+Science;AI+%2B+Healthcare+%C2%B7+Medical+Data+Intelligence;BSc+%40+Wuhan+University+%C2%B7+Global+Health+%2B+CS+minor;Building+with+Rust+%C2%B7+Python+%C2%B7+TypeScript" alt="intro"/>
-  </picture>
+  <p><strong>AI + Healthcare</strong> · Medical Data Intelligence<br/>Building with Rust · Python · TypeScript</p>
 </div>
 
 ## `01` About
@@ -21,50 +17,31 @@
 
 <div align="center">
   <a href="https://github.com/CPbianma/Cc-codex-flow">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Cc-codex-flow&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Cc-codex-flow&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="Cc-codex-flow"/>
-    </picture>
+    <img width="420" src="./assets/project-codex-flow.svg" alt="Cc-codex-flow — desktop multi-agent orchestration with Tauri, React and Rust"/>
   </a>
   <a href="https://github.com/CPbianma/green-vrptw-split-delivery">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC&cache_seconds=3600"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=green-vrptw-split-delivery&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488&cache_seconds=3600" alt="green-vrptw-split-delivery"/>
-    </picture>
+    <img width="420" src="./assets/project-green-routing.svg" alt="green-vrptw-split-delivery — Python solver for green routing with time windows and split deliveries"/>
   </a>
   <a href="https://github.com/CPbianma/ncmdec">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=ncmdec&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=ncmdec&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="ncmdec"/>
-    </picture>
+    <img width="420" src="./assets/project-ncmdec.svg" alt="ncmdec — NCM audio tools with metadata and lyrics support"/>
   </a>
   <a href="https://github.com/CPbianma/Underline_translate">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Underline_translate&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPbianma&repo=Underline_translate&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="Underline_translate"/>
-    </picture>
+    <img width="420" src="./assets/project-underline-translate.svg" alt="Underline_translate — lightweight desktop text-selection translation tool"/>
   </a>
 </div>
+
+Project links: [Cc-codex-flow](https://github.com/CPbianma/Cc-codex-flow) · [Green routing](https://github.com/CPbianma/green-vrptw-split-delivery) · [ncmdec](https://github.com/CPbianma/ncmdec) · [Underline_translate](https://github.com/CPbianma/Underline_translate)
 
 ## `03` Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,ts,java,react,tauri,git,github&theme=light&perline=8" alt="tech stack"/>
+  <p><code>Rust</code> <code>Python</code> <code>TypeScript</code> <code>Java</code> <code>React</code> <code>Tauri</code> <code>Git</code> <code>GitHub</code></p>
 </div>
 
-## `04` Stats
+## `04` Explore
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CPbianma&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&title_color=5EEAD4&text_color=9AA7B0&icon_color=45B8AC"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=CPbianma&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github&title_color=0F766E&text_color=4B5563&icon_color=0D9488" alt="GitHub stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=9AA7B0"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPbianma&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=4B5563" alt="Top languages"/>
-  </picture>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=CPbianma&style=flat-square&color=0d9488&label=PROFILE+VIEWS" alt="profile views"/>
+  <p><a href="https://github.com/CPbianma?tab=repositories">All repositories</a> · <a href="https://github.com/CPbianma?tab=stars">Starred projects</a> · <a href="https://github.com/CPbianma/zju-learning-course-service">Course monitor · work in progress</a></p>
 </div>
 
 <img width="100%" src="./assets/footer.svg" alt="Code for healthier lives."/>
