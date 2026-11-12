@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/header-mobile.svg"/>
-    <img width="100%" src="./assets/header.svg" alt="Peng Cai — Big Data Health Science · AI + Healthcare"/>
+    <img width="100%" src="./assets/header-khaki.svg" alt="Peng Cai — Big Data Health Science · AI + Healthcare"/>
   </picture>
   <p><strong>AI + Healthcare</strong> · Medical data intelligence<br/>Building with Rust · Python · TypeScript</p>
 </div>
@@ -16,10 +16,10 @@
 ## Selected projects
 
 <div align="center">
-  <a href="https://github.com/CPbianma/Cc-codex-flow"><img width="390" src="./assets/project-codex-flow.svg" alt="Cc-codex-flow — desktop multi-agent orchestration with Tauri, React and Rust"/></a>
-  <a href="https://github.com/CPbianma/green-vrptw-split-delivery"><img width="390" src="./assets/project-green-routing.svg" alt="green-vrptw-split-delivery — Python solver for green routing with time windows and split deliveries"/></a>
-  <a href="https://github.com/CPbianma/ncmdec"><img width="390" src="./assets/project-ncmdec.svg" alt="ncmdec — NCM audio tools with metadata and lyrics support"/></a>
-  <a href="https://github.com/CPbianma/Underline_translate"><img width="390" src="./assets/project-underline-translate.svg" alt="Underline_translate — lightweight desktop text-selection translation tool"/></a>
+  <a href="https://github.com/CPbianma/Cc-codex-flow"><img width="390" src="./assets/project-codex-flow-khaki.svg" alt="Cc-codex-flow — desktop multi-agent orchestration with Tauri, React and Rust"/></a>
+  <a href="https://github.com/CPbianma/green-vrptw-split-delivery"><img width="390" src="./assets/project-green-routing-khaki.svg" alt="green-vrptw-split-delivery — Python solver for green routing with time windows and split deliveries"/></a>
+  <a href="https://github.com/CPbianma/ncmdec"><img width="390" src="./assets/project-ncmdec-khaki.svg" alt="ncmdec — NCM audio tools with metadata and lyrics support"/></a>
+  <a href="https://github.com/CPbianma/Underline_translate"><img width="390" src="./assets/project-underline-translate-khaki.svg" alt="Underline_translate — lightweight desktop text-selection translation tool"/></a>
 </div>
 
 <details>
@@ -43,5 +43,5 @@
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/footer-mobile.svg"/>
-  <img width="100%" src="./assets/footer.svg" alt="Code for healthier lives."/>
+  <img width="100%" src="./assets/footer-khaki.svg" alt="Code for healthier lives."/>
 </picture>
