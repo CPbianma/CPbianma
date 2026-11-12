@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="112" viewBox="0 0 400 112" role="img" aria-labelledby="title description">
+  <title id="title">Code for healthier lives.</title>
+  <desc id="description">A small personal motto, from Hangzhou, China.</desc>
+  <rect x="1" y="1" width="398" height="110" rx="12" fill="#F0EADF" stroke="#E7DFD1"/>
+  <path d="M24 26v60" stroke="#C87859" stroke-width="3" stroke-linecap="round"/>
+  <text x="42" y="53" fill="#3D3929" font-family="Georgia,'Times New Roman',serif" font-size="27" font-style="italic">Code for healthier lives<tspan fill="#B15C41">.</tspan></text>
+  <text x="43" y="81" fill="#756D5D" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2">HANGZHOU · CHINA</text>
+</svg>
