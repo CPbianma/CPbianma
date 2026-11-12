@@ -60,7 +60,7 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/CPbianma?tab=repositories">All repositories</a> · <a href="https://github.com/CPbianma?tab=stars">Starred projects</a> · <a href="https://github.com/CPbianma/zju-learning-course-service">Course monitor · work in progress</a>
+  <a href="https://cpbianma.github.io/">Personal homepage</a> · <a href="https://github.com/CPbianma?tab=repositories">All repositories</a> · <a href="https://github.com/CPbianma?tab=stars">Starred projects</a> · <a href="https://github.com/CPbianma/zju-learning-course-service">Course monitor · work in progress</a>
 </p>
 
 <div align="center">
